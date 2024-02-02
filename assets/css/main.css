@@ -25,7 +25,6 @@ html{
     margin-top: 5%;
     padding:2rem;
 }
-
 /* Phần avt tên */
 
 .intro-user{
@@ -66,6 +65,7 @@ html{
     color:rgb(46, 54, 63);
     font-size: 30px;
     margin-right: 26px;
+    text-align: start;
 }
 
 .intro-user-right__job{

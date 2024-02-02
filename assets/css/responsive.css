@@ -33,6 +33,7 @@
     }
     .intro-user-right__name{
         margin-right: 0;
+        text-align: center;
     }
     .intro-user-right__social{
         margin-top: 34px;
@@ -118,6 +119,7 @@
     .intro-user-right__name{
         margin-right: 0;
         font-size: 24px;
+        text-align: center;
     }
     .intro-user-right__social{
         margin-top: 32px;
